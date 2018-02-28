@@ -1,0 +1,13 @@
+version: "2"
+services:
+  mariadb:
+    image: mariadb_alpine
+    ports:
+    - "3307:3306"
+    environment:
+    - MYSQL_ROOT_PASSWORD=
+    - MYSQL_DATABASE=
+    - MYSQL_USER=
+    - MYSQL_PASSWORD=
+    volumes:
+    - /srv/mysql:/var/lib/mysql
