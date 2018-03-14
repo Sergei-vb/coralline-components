@@ -1,4 +1,4 @@
-# Docker_database
+# Docker_repositories
 
 ## Table of contents
 - [Getting Started](#getting-started)
