@@ -1,4 +1,4 @@
-# Docker_repositories
+# coralline-components
 
 ## Table of contents
 - [Getting Started](#getting-started)
@@ -12,8 +12,8 @@
 
 ### Dependencies
 #### This application works in conjunction with:
-* https://github.com/HighHopesInt/HighHopes
-* https://github.com/Sergei-vb/async_test
+* https://github.com/HighHopesInt/coralline-dashboard
+* https://github.com/Sergei-vb/coralline-rpc
 
 ### Installation
 1. [Docker](https://docs.docker.com/install/ "Docker")
